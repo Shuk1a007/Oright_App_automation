@@ -1,0 +1,34 @@
+profile_close=//android.widget.Image[@text="close"]
+Menu=//android.widget.Image[@text="ic_ham"]
+Farmer_list_menu=//android.view.View[@text="farmer FARMER LIST"]
+Add_farmer=//android.widget.TextView[@text="+ Add Farmer"]
+Farmer_registration_title=//android.widget.TextView[@text="Farmer Registration"]
+back_button=//android.widget.Image[@text="ic_back"]
+Enter_Farmer_name=//android.widget.TextView[@resource-id="ion-input-0-lbl"]
+Farmer_Name_input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Enter_Farmer_code_title=//android.widget.TextView[@resource-id="ion-input-1-lbl"]
+Farmer_code_text=(//android.widget.EditText)[2]
+Farmer_already_exist=//android.widget.TextView[@resource-id="alert-30-msg"]
+Enter_mobile_number_title=//android.widget.TextView[@resource-id="ion-input-2-lbl"]
+Enter_mobile_number_inputbox=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[3]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Enter_Address_title=//android.widget.TextView[@resource-id="ion-input-3-lbl"]
+Enter_Address_inputbox=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Select_Catle_title=//android.widget.TextView[@text="Select Cattle Type*"]
+cattle_title_list=//android.widget.CheckBox
+Add_Bank_Details=//android.widget.CheckBox[@resource-id="ion-cb-5"]
+Bank_Name=//android.widget.TextView[@resource-id="ion-input-4-lbl"]
+Branch_Name=//android.widget.TextView[@resource-id="ion-input-5-lbl"]
+IFSC_Code=//android.widget.TextView[@resource-id="ion-input-6-lbl"]
+Account_Number=//android.widget.TextView[@resource-id="ion-input-7-lbl"]
+Account_Holder_Name=//android.widget.TextView[@resource-id="ion-input-8-lbl"]
+Bank_Name_input_Box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[10]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Branch_Name=//android.widget.TextView[@resource-id="ion-input-5-lbl"]
+Branch_Name_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[11]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+IFSC_Code=//android.widget.TextView[@resource-id="ion-input-6-lbl"]
+IFSC_Code_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[12]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Account_Number_title=//android.widget.TextView[@resource-id="ion-input-7-lbl"]
+Account_Number_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[13]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Account_Holder_Name=//android.widget.TextView[@resource-id="ion-input-8-lbl"]
+Account_Holder_Name_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[14]/android.view.View/android.view.View/android.view.View/android.widget.EditText
+Submit_Button=//android.widget.TextView[@text="Submit"]
+Search_Bar=//android.widget.EditText

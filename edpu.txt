@@ -1,0 +1,58 @@
+Menu=//android.widget.Image[@text="ic_ham"]
+edpu=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[7]/android.view.View
+edpu_testing=//android.widget.TextView[@text="Fat(%)"]
+testing=//android.widget.TextView[@text="Testing"]
+Search_bar=//android.widget.EditText[@resource-id="searchPage-searchCatalogue_input"]
+farmer_select=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+farmer_milk_testing_title=//android.widget.TextView[@text="Farmer's Milk Testing"]
+farmer_milk_testing_size=//android.widget.TextView[@text="Farmer's Milk Testing"]
+farmer_ID=//android.widget.TextView[@resource-id="ion-input-0-lbl"]
+farmer_name=//android.widget.TextView[@resource-id="ion-input-1-lbl"]Mpp_Code_Input_Box
+Result=//android.widget.TextView[@resource-id="ion-input-2-lbl"]
+result_input_box_available=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[3]/android.view.View/android.view.View
+Quantity=//android.widget.TextView[@resource-id="ion-input-8-lbl"]
+Quantity_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View
+fat=//android.widget.TextView[@resource-id="ion-input-9-lbl"]
+Fat_input_Box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]/android.view.View/android.view.View
+SNF=//android.widget.EditText[@text="SNF(%)"]
+SNF_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[6]/android.view.View/android.view.View/android.view.View
+unit_price=//android.widget.TextView[@resource-id="ion-input-3-lbl"]
+Unit_price_input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[7]/android.view.View/android.view.View
+Total_Amount=//android.widget.TextView[@resource-id="ion-input-4-lbl"]
+Total_Amount_Input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[8]
+Save_Button=//android.widget.Button[@text="SAVE"]
+Print_Button=//android.widget.Button[@text="PRINT"]
+farmer_ID=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]
+farmer_id_clear=//android.widget.EditText[@text="0005, Farmer Id"]
+farmer_lists=//android.view.View/android.widget.ListView
+farmer_list_container=//android.view.View/android.widget.ListView
+farmer_Lists_containers=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View[3]
+entered_farmer_ID=//android.widget.EditText[@text="0002, Farmer Id"]
+farmer_available_list=//android.view.View/android.widget.ListView
+milktype=//android.widget.RadioGroup
+cow_milktype=//android.widget.RadioGroup/android.view.View[1]/android.view.View/android.view.View/android.view.View
+Quantity=//android.widget.EditText[@text="Qty(L)"]
+Fat=//android.widget.EditText[@text="Fat(%)"]
+SNF=//android.widget.EditText[@text="SNF(%)"]
+Save_Button=//android.widget.Button[@text="SAVE"]
+confirmation=//android.view.View[@resource-id="ion-overlay-24"]/android.view.View
+confirm_Yes=//android.widget.Button[@text="Yes"]
+Unit_Price_Zero=(//android.widget.EditText[@text="0.00"])[1]
+save=//android.widget.Button[@text="SAVE"]
+farmer_testing_back_button=//android.view.View[@resource-id="content"]/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View[1]
+Stop_Testing=//android.view.View[@resource-id="ion-overlay-24"]/android.view.View
+Stop_testing_confirm=//android.widget.Button[@text="Yes"]
+Home_button=//android.widget.TextView[@text="Home"]
+SNF_out_of_range=//android.widget.TextView[@resource-id="alert-23-hdr"]
+SNF_Out_of_range_OK=//android.widget.Button[@text="Ok"]
+farmer_Milk_testing_page=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout
+Farmer_list_available_cc=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View 
+Farmer_click=//android.widget.TextView[@text="0002 : Rajesh Kumar ji"]
+
+
+
+
+
+
+
+

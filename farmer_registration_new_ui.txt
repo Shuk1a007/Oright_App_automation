@@ -1,0 +1,1 @@
+profile_close=//android.widget.Image[@text="close"]

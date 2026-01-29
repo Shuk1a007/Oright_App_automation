@@ -1,0 +1,2 @@
+Delivery_address_title=//android.widget.TextView[@text="Delivery Address"]
+Search_bar_available=//android.view.View[@resource-id="select-delivery-address-searchLocation"]

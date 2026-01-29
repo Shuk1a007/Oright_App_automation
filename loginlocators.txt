@@ -1,0 +1,19 @@
+oright_title_correct=//android.webkit.WebView[@text="ORIGHT"]
+Welcome_note=//android.widget.TextView[@text="Silage, Cattle feed, Seeds and Veterinary Services"]
+text=//android.widget.TextView[@text="The One Stop Solution to all your Livestock Needs"]
+getStarted=//android.widget.Button[@text=\"Get Started\"]
+Email_id=//android.widget.EditText[@resource-id="phoneOrUsernameInput"]
+Next_button=//android.widget.Button[@text="Next"]
+User_name_title=//android.view.View[@text="User Name *"]
+Password_title=//android.view.View[@text="Password *"]
+Password_inputbox_placeholder=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.EditText
+password_inputbox=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.EditText
+customer_code_title=//android.view.View[@text="Customer Code *"]
+customer_code_input_box_placeholder=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.widget.EditText[2]
+customer_code_input_box=//android.view.View[@resource-id="content"]/android.view.View/android.view.View/android.view.View/android.widget.EditText[2]
+Login=//android.widget.Button[@text="Login"]
+Login_successful=//android.view.View[@resource-id="content"]/android.view.View
+delivery_address=//android.view.View[@resource-id="input-container-10028"]
+address=//android.widget.TextView[@text="Delivery Address"]
+dashboard=//android.view.View[@text="Dashboard"]
+
